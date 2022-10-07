@@ -37,7 +37,7 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-michael-a44301175)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/v1?label=<LABEL>&message=mcstephen&color=blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-michael-a44301175)
 
 ---
 
@@ -46,23 +46,23 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original-wordmark.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original-wordmark.svg" title="composer" alt="composer" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer" alt="composer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="codepen" alt="codepen" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original-wordmark.svg" title="appwrite" alt="appwrite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original-wordmark.svg" title="webflow" alt="webflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="webflow" alt="webflow" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -80,8 +80,8 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I get a job as a front end developer](https://dev.to/emeka212/how-do-i-get-a-job-as-a-front-end-developer-1h9c)
-- [I just joined a new community](https://dev.to/emeka212/i-just-joined-a-new-community-glk)
+<!-- - [How do I get a job as a front end developer](https://dev.to/emeka212/how-do-i-get-a-job-as-a-front-end-developer-1h9c)
+- [I just joined a new community](https://dev.to/emeka212/i-just-joined-a-new-community-glk) -->
 <!-- BLOG-POST-LIST:END -->
 
 
