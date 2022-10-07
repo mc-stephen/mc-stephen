@@ -64,14 +64,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 ---
 
 ### :fire: My Stats :
-
-<div style="display: flex">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emeka212&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 [![@mcstephen's Holopin board](https://holopin.io/api/user/board?user=mcstephen)](https://holopin.io/@mcstephen)
 
