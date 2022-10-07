@@ -71,7 +71,6 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Emeka212&theme=tokyonight_duo&border_radius=5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![mc-stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emeka212&show_icons=true&theme=radical)
 
@@ -79,6 +78,9 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 [![@mcstephen's Holopin board](https://holopin.io/api/user/board?user=mcstephen)](https://holopin.io/@mcstephen)
 
 ---
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ### :writing_hand: Blog Posts : -->
 
