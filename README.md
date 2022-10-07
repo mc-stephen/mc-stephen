@@ -73,6 +73,9 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![mc-stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emeka212&show_icons=true&theme=radical)
+
+
 [![@mcstephen's Holopin board](https://holopin.io/api/user/board?user=mcstephen)](https://holopin.io/@mcstephen)
 
 ---
