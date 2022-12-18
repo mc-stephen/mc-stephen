@@ -85,9 +85,7 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create a Swap Space on Ubuntu](https://dev.to/emeka212/how-to-create-a-swap-space-on-ubuntu-edd)
-- [How do I get a job as a front end developer](https://dev.to/emeka212/how-do-i-get-a-job-as-a-front-end-developer-1h9c)
-- [I just joined a new community](https://dev.to/emeka212/i-just-joined-a-new-community-glk)
+- [How To Create a Swap Space on Ubuntu](https://dev.to/emeka212/how-to-create-a-swap-space-on-ubuntu-723)
 <!-- BLOG-POST-LIST:END -->
 
 
