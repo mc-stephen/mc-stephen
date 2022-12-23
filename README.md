@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Popular VS-Code Extension](https://dev.to/emeka212/top-10-popular-vs-code-extension-3kh0)
 - [Best Freemium Email API For Developers](https://dev.to/emeka212/best-freemium-email-api-for-developers-13ei)
 - [Best Freemium &amp; Open Source Headless CMS](https://dev.to/emeka212/best-freemium-open-source-headless-cms-35oe)
 - [Top 10 Best Text Editors For Window](https://dev.to/emeka212/top-10-best-text-editors-for-window-20f7)
-- [How To Change App Name And Icon Name In Flutter &lpar;Android &amp; IOS&rpar;](https://dev.to/emeka212/how-to-change-app-name-and-icon-name-in-flutter-android-ios-agf)
 <!-- BLOG-POST-LIST:END -->
 
 
