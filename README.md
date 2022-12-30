@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Free Heroku alternatives for Developers](https://dev.to/emeka212/top-10-free-heroku-alternatives-for-developers-1ako)
 - [Best AI Website and Tool](https://dev.to/emeka212/best-ai-website-and-tool-3gp3)
 - [Top 7 Best IDEs For Programmers](https://dev.to/emeka212/top-7-best-ides-for-programmers-4eop)
 - [Top 10 Popular VS-Code Extension](https://dev.to/emeka212/top-10-popular-vs-code-extension-3kh0)
-- [Best Freemium Email API For Developers](https://dev.to/emeka212/best-freemium-email-api-for-developers-13ei)
 <!-- BLOG-POST-LIST:END -->
 
 
