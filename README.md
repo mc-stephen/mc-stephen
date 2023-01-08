@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Screen Record On An iPhone](https://dev.to/emeka212/how-to-screen-record-on-an-iphone-34a1)
+- [How To Reset An iPhone](https://dev.to/emeka212/how-to-reset-an-iphone-3lhe)
 - [How To Backup An iPhone](https://dev.to/emeka212/how-to-backup-an-iphone-b3p)
 - [How To Factory Reset An iPhone](https://dev.to/emeka212/how-to-factory-reset-an-iphone-1707)
-- [How To Clear Cache On An iPhone](https://dev.to/emeka212/how-to-clear-cache-on-an-iphone-3cdk)
-- [Top 10 Free Heroku alternatives for Developers](https://dev.to/emeka212/top-10-free-heroku-alternatives-for-developers-1ako)
 <!-- BLOG-POST-LIST:END -->
 
 
