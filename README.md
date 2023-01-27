@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 vs Windows 10 [Windows]](https://dev.to/emeka212/windows-11-vs-windows-10-windows-4ei)
 - [How To Screen Record On An iPhone](https://dev.to/emeka212/how-to-screen-record-on-an-iphone-34a1)
 - [How To Reset An iPhone](https://dev.to/emeka212/how-to-reset-an-iphone-3lhe)
 - [How To Backup An iPhone](https://dev.to/emeka212/how-to-backup-an-iphone-b3p)
-- [How To Factory Reset An iPhone](https://dev.to/emeka212/how-to-factory-reset-an-iphone-1707)
 <!-- BLOG-POST-LIST:END -->
 
 
