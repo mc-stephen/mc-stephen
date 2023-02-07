@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Screen Record On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screen-record-on-a-windows-pc-windows-4b0n)
 - [How To Screenshot On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screenshot-on-a-windows-pc-windows-4ec4)
 - [How To Screenshot On a Mac PC](https://dev.to/emeka212/how-to-screenshot-on-a-mac-pc-5ehn)
 - [How To Delete A Gmail Account [Gmail]](https://dev.to/emeka212/how-to-delete-a-gmail-account-gmail-2858)
-- [How To Delete An Instagram Account](https://dev.to/emeka212/how-to-delete-an-instagram-account-1eh2)
 <!-- BLOG-POST-LIST:END -->
 
 
