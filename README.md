@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Install Cyberpanel on Ubuntu](https://dev.to/emeka212/how-to-install-cyberpanel-on-ubuntu-3m4h)
 - [How To Install Appwrite on Ubuntu](https://dev.to/emeka212/how-to-install-appwrite-on-ubuntu-2god)
 - [How To Screen Record On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screen-record-on-a-windows-pc-windows-4b0n)
 - [How To Screenshot On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screenshot-on-a-windows-pc-windows-4ec4)
-- [How To Screenshot On a Mac PC](https://dev.to/emeka212/how-to-screenshot-on-a-mac-pc-5ehn)
 <!-- BLOG-POST-LIST:END -->
 
 
