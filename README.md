@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
 - [How To Install Cyberpanel on Ubuntu](https://dev.to/emeka212/how-to-install-cyberpanel-on-ubuntu-3m4h)
 - [How To Install Appwrite on Ubuntu](https://dev.to/emeka212/how-to-install-appwrite-on-ubuntu-2god)
 - [How To Screen Record On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screen-record-on-a-windows-pc-windows-4b0n)
-- [How To Screenshot On a Windows PC [Windows]](https://dev.to/emeka212/how-to-screenshot-on-a-windows-pc-windows-4ec4)
 <!-- BLOG-POST-LIST:END -->
 
 
