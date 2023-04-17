@@ -85,10 +85,10 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Need tips in setting the right path.](https://dev.to/emeka212/need-tips-in-setting-the-right-path-2ejl)
 - [How To Install Easypanel on Ubuntu](https://dev.to/emeka212/how-to-install-easypanel-on-ubuntu-452)
 - [How to Parse RSS Feed in Javascript](https://dev.to/emeka212/how-to-parse-rss-feed-in-javascript-10l2)
 - [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
-- [How To Install Cyberpanel on Ubuntu](https://dev.to/emeka212/how-to-install-cyberpanel-on-ubuntu-3m4h)
 <!-- BLOG-POST-LIST:END -->
 
 
