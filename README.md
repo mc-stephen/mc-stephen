@@ -85,10 +85,11 @@ I am a Full Stack Web & Mobile Developer <img src="https://media.giphy.com/media
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Format Date and Time in Flutter](https://dev.to/emeka212/how-to-format-date-and-time-in-flutter-580l)
-- [Need tips in setting the right path.](https://dev.to/emeka212/need-tips-in-setting-the-right-path-2ejl)
-- [How To Install Easypanel on Ubuntu](https://dev.to/emeka212/how-to-install-easypanel-on-ubuntu-452)
-- [How to Parse RSS Feed in Javascript](https://dev.to/emeka212/how-to-parse-rss-feed-in-javascript-10l2)
+- [How To Format Date and Time in Flutter](https://axxellanceblog.com/posts/how-to-format-date-and-time-in-flutter)
+- [How To Install Easypanel on Ubuntu](https://axxellanceblog.com/posts/how-to-install-easypanel-on-ubuntu)
+- [How to Parse RSS Feed in Javascript](https://axxellanceblog.com/posts/how-to-parse-rss-feed-in-javascript)
+- [How to Fix CORS Origin Error in Javascript](https://axxellanceblog.com/posts/how-to-fix-cors-origin-error-in-javascript)
+- [How To Install Cyberpanel on Ubuntu](https://axxellanceblog.com/posts/how-to-install-cyberpanel-on-ubuntu)
 <!-- BLOG-POST-LIST:END -->
 
 
