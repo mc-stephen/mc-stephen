@@ -25,9 +25,9 @@
 </h1>
 
 ### :hammer_and_wrench: Languages :
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,dart,flutter,react,next,vue,dotnet,kotlin,md,sqlite,swift,ts,unity,cs&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,dart,flutter,react,next,vue,dotnet,kotlin,md,sqlite,swift,ts,cs&perline=8)
 ### :hammer_and_wrench: Tools :
-![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,cloudflare,devto,docker,git,github,graphql,ai,ps,postman,visualstudio,vscode&perline=7)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,cloudflare,devto,docker,git,github,graphql,ai,ps,postman,visualstudio,vscode,unity&perline=7)
 
 ---
 
