@@ -31,13 +31,7 @@
 
 ---
 
-### :fire: My Stats :
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emeka212&theme=tokyonight_duo&border_radius=5)](https://git.io/streak-stats)
-
-
-![mc-stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emeka212&show_icons=true&theme=radical)
-
+### :fire: Holopin Badge :
 
 [![@mcstephen's Holopin board](https://holopin.io/api/user/board?user=mcstephen)](https://holopin.io/@mcstephen)
 
