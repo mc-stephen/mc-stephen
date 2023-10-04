@@ -31,6 +31,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### :fire: Holopin Badge :
 
 [![@mcstephen's Holopin board](https://holopin.io/api/user/board?user=mcstephen)](https://holopin.io/@mcstephen)
