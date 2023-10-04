@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
+  show-wakatime-stacks:
+    name: Waka - Readme
+    uses: athul/waka-readme@v0.2.5
   update-readme-with-blog:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
