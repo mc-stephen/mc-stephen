@@ -53,9 +53,9 @@ YAML         3 mins          ▒░░░░░░░░░░░░░░░░
 
 ### :writing_hand: Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide The Letter Counter From The Bottom of TextField in Flutter](https://axxellanceblog.com/posts/how-to-hide-the-textfield-letter-counter-in-flutter)
-- [Different Between string[] and List&lt;string&gt; in C#](https://axxellanceblog.com/posts/different-between-string-and-list-string-in-csharp)
-- [How To Format Date and Time in Flutter](https://axxellanceblog.com/posts/how-to-format-date-and-time-in-flutter)
-- [How To Install Easypanel on Ubuntu](https://axxellanceblog.com/posts/how-to-install-easypanel-on-ubuntu)
-- [How to Parse RSS Feed in Javascript](https://axxellanceblog.com/posts/how-to-parse-rss-feed-in-javascript)
+- [How To Change App Name And Icon Name In Flutter &lpar;Android &amp; IOS&rpar;](https://axxellanceblog.com/posts/how-to-change-app-name-and-icon-name-in-flutter)
+- [How To Format Or Factory Reset A Mac OS Computer](https://axxellanceblog.com/posts/how-to-format-or-factory-reset-a-mac-os-computer)
+- [Top 10 Best Text Editors For Window](https://axxellanceblog.com/posts/top-10-best-text-editors-for-window)
+- [Best Freemium &amp; Open Source Headless CMS](https://axxellanceblog.com/posts/best-freemium-and-open-source-headless-cms)
+- [Best Freemium Email API For Developers](https://axxellanceblog.com/posts/best-freemium-email-api-for-developers)
 <!-- BLOG-POST-LIST:END -->
