@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              13 hrs 56 mins  ██████████▓░░░░░░░░░░░░░░   42.87 %
-TypeScript        7 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Groovy            4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-YAML              2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Git Config        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Dart              16 hrs 55 mins  █████████████▓░░░░░░░░░░░   55.15 %
+TypeScript        5 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Groovy            3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Git Config        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Prolog            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
