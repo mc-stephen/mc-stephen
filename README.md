@@ -53,9 +53,9 @@ Groovy            41 mins         █░░░░░░░░░░░░░░�
 
 ### :writing_hand: Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
-- [How To Change App Name And Icon Name In Flutter &lpar;Android &amp; IOS&rpar;](https://axxellanceblog.com/posts/how-to-change-app-name-and-icon-name-in-flutter)
-- [How To Format Or Factory Reset A Mac OS Computer](https://axxellanceblog.com/posts/how-to-format-or-factory-reset-a-mac-os-computer)
-- [Top 10 Best Text Editors For Window](https://axxellanceblog.com/posts/top-10-best-text-editors-for-window)
-- [Best Freemium &amp; Open Source Headless CMS](https://axxellanceblog.com/posts/best-freemium-and-open-source-headless-cms)
-- [Best Freemium Email API For Developers](https://axxellanceblog.com/posts/best-freemium-email-api-for-developers)
+- [How%20To%20Backup%20An%20iPhone](https://axxellanceblog.com/posts/how-to-backup-an-i-phone)
+- [How%20To%20Screen%20Record%20On%20An%20iPhone](https://axxellanceblog.com/posts/how-to-screen-record-on-an-iphone)
+- [Windows%2011%20vs%20Windows%2010%20%5BWindows%5D](https://axxellanceblog.com/posts/windows-11-vs-windows-10)
+- [How%20To%20Create%20a%20Swap%20Space%20on%20Ubuntu](https://axxellanceblog.com/posts/how-to-create-a-swap-space-on-ubuntu)
+- [How%20To%20Delete%20An%20Instagram%20Account](https://axxellanceblog.com/posts/how-to-delete-an-instagram-account)
 <!-- BLOG-POST-LIST:END -->
