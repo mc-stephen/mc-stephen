@@ -53,9 +53,9 @@ JSON              27 mins         █▒░░░░░░░░░░░░░�
 
 ### :writing_hand: Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
-- [What%20is%20Regular%20Expression%20and%20How%20to%20Use%20it%20in%20Javascript](https://axxellanceblog.com/posts/regular-expression-in-javascript)
-- [How%20to%20Customize%20and%20Change%20Your%20Flutter%20App%20Launcher%20Icon%20%5B2024%5D](https://axxellanceblog.com/posts/change-flutter-app-launcher-icon)
-- [Ways%20to%20Check%20Available%20Swap%20Space%20on%20Linux%20Server%20or%20Desktop](https://axxellanceblog.com/posts/ways-to-check-available-swap-space-on-linux-server-or-desktop)
-- [How%20to%20Create%20Swap%20Space%20on%20a%20Linux%20Server%20or%20Desktop](https://axxellanceblog.com/posts/how-to-create-swap-space-on-a-linux-server-or-desktop)
-- [How%20to%20Increase%20or%20Update%20a%20Swap%20Space%20on%20Linux](https://axxellanceblog.com/posts/how-to-increase-or-update-a-swap-space-on-linux)
+- [How%20to%20Get%20Device%20Size%20in%20Jetpack%20Compose%20with%20Kotlin](https://axxellanceblog.com/posts/how-to-get-device-size-in-jetpack-compose-with-kotlin)
+- [How%20to%20Add%20HEX%20Color%20Code%20to%20a%20Compose%20in%20Jetpack%20Compose](https://axxellanceblog.com/posts/how-to-add-hex-color-code-to-a-compose-in-jetpack-compose)
+- [How%20to%20Set%20Up%20SSH%20Key%20Authentication%20on%20a%20Linux%20Server](https://axxellanceblog.com/posts/how-to-set-up-ssh-key-authentication-on-a-linux-server)
+- [How%20to%20Read%20File%20Content%20on%20a%20Linux%20Terminal](https://axxellanceblog.com/posts/how-to-read-file-content-on-a-linux-terminal)
+- [Get%20Installed%20APK%20From%20Android%20Devices%20Using%20ADB](https://axxellanceblog.com/posts/get-installed-apk-from-android-devices-using-adb)
 <!-- BLOG-POST-LIST:END -->
