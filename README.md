@@ -34,7 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Slint             19 hrs 7 mins         ████████████████████████░   96.11 %
+Groovy            21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Rust              10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Text              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Gradle            4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
